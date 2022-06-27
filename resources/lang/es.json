@@ -38,5 +38,19 @@
     "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "¿Olvidó su contraseña? Ingrese su dirección de correo electrónico y le enviaremos un enlace de restablecimiento de contraseña que le permitirá elegir una nueva.",
     "Email Password Reset Link": "Enviar Link",
     "Sign in to start your session": "Inciar Sesión",
-    "enter the email associated with the account": "ingrese el mail asociado a la cuenta."
+    "enter the email associated with the account": "ingrese el mail asociado a la cuenta.",
+    "Whoops! Something went wrong.": "Ups!! Algo no esta bien.",
+    "Edit Profile": "Editar perfil",
+    "Profile": "Perfil",
+    "Browser Sessions":"Sesiones abiertas",
+    "Delete Account": "Borrar cuenta",
+    "Update Password":"Cambiar contraseña",
+    "Enable":"Activar",
+    "Profile Information":"Información del perfil",
+    "Save":"Guardar",
+    "Two Factor Authentication":"Segundo factor de autenticación.",
+    "Log Out": "Salir",
+    "Resend Verification Email": "Reenviar email de verificación.",
+    "Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.":"Antes de continuar, es necesario verificar su dirección de correo electrónico, revise su casilla de mail y haga click en el enlace. Si no recibiste el correo electrónico, con gusto te enviaremos otro."
+
 }
